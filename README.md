@@ -11,4 +11,4 @@ It -
 - Can emulate keyboard/mouse events.
 
 ## TODO
--[ ] Connect the current functionality up to actually fish.
+- [ ] Connect the current functionality up to actually fish.
